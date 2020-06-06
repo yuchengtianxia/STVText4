@@ -1,4 +1,5 @@
-# Temporal Clustering for Spatio-Temporal Video Scene Text Detection
+Temporal Clustering for Spatio-Temporal Video Scene Text Detection
+===
 
 ## The proposed benchmark and the code for our approach will be publicly available at here.
 
